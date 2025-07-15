@@ -5,7 +5,7 @@ A full-stack Money Manager web application that helps users track income and exp
   <tr>
     <td> <strong>Front-end</strong></td>
     <td> <strong>Backend</strong><</td>
-    <td><strong>Database</strong></td></td>
+    <td><strong>Database</strong></td>
   </tr>
   <tr>
     <td>React, Tailwind CSS</td>
